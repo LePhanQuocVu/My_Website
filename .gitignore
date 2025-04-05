@@ -1,0 +1,8 @@
+
+#node module
+
+node_modules/
+
+
+# Các file môi trường
+.env
